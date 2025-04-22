@@ -5,5 +5,5 @@ df = pd.DataFrame({
     'Age': [25, 30]
 })
 
-df.to_csv('output/output.csv', index=False)
+df.to_csv('output/ec2_output.csv', index=False)
 print("CSV file created and saved to volume!")
