@@ -1,0 +1,4 @@
+Mekhi Barnes Adams, Aaryan Agrawal, Ian Evensen
+
+Bucket Name: adams-agrawal-evensen-mwaa
+MWAA Environment: adams-agrawal-evensen-mwaa
